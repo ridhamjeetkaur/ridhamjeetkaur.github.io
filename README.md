@@ -18,8 +18,7 @@
 ## In traffic API we consider two API:
 ### 1. Traffic incident Api = It give us event happening on road . As a service API, it can be used to fetch events in a bounded box(an area in a map). It is also used by SDK to display incidents.This provides an accurate view about traffic jams and incidents around a road network.
 ### 2. Traffic flow API = this give how fast  or slow are street segments doing(eg = how traffic is going slow or fast) . This provides real time observed speeds and travel times for all key roads in a network.
-###
-
-###
-###
-###
+##Using Tom Tom predict traffic flow:
+### Step !: Add map to website :Add a map to your website = https://www.youtube.com/watch?v=rqpZFsM7vII&ab_channel=TomTom
+### Step 2: Add traffic flow and incident layer to map. = https://www.youtube.com/watch?v=OKwF-F7LJPw&ab_channel=TomTom
+###Adding more, we can make route app with tom tom.
