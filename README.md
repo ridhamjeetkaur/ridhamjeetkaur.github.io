@@ -14,6 +14,7 @@
 ### 5 Custom Markers and Popups with the TomTom Maps APIs = https://www.youtube.com/watch?v=rAZVd6XMAnQ&ab_channel=TomTomDevelopers
 ### 6 Navigation App Using the TomTom Nav SDK = https://www.youtube.com/watch?v=raPYxWrqNjA&ab_channel=TomTomDevelopers
 
+
 # Traffic API:
 ### Related to traffic. The Traffic API is service designed for developers to create web and mobile applications around real-time traffic. These web services can be used via RESTful APIs.
 ## In traffic API we consider two API:
