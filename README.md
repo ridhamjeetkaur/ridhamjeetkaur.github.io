@@ -13,3 +13,13 @@
 ### 4 Geofencing API Tutorial with the TomTom Geofencing = https://www.youtube.com/watch?v=1IVCzFPi0q0&list=PLl-bV-aob1-ffrfVCRWNBe5OwPWHlZxAd&index=6&ab_channel=TomTomDevelopers
 ### 5 Custom Markers and Popups with the TomTom Maps APIs = https://www.youtube.com/watch?v=rAZVd6XMAnQ&ab_channel=TomTomDevelopers
 ### 6 Navigation App Using the TomTom Nav SDK = https://www.youtube.com/watch?v=raPYxWrqNjA&ab_channel=TomTomDevelopers
+
+## Traffic API: Related to traffic. The Traffic API is service designed for developers to create web and mobile applications around real-time traffic. These web services can be used via RESTful APIs.
+## In traffic API we consider two API:
+### 1. Traffic incident Api = It give us event happening on road . As a service API, it can be used to fetch events in a bounded box(an area in a map). It is also used by SDK to display incidents.This provides an accurate view about traffic jams and incidents around a road network.
+### 2. Traffic flow API = this give how fast  or slow are street segments doing(eg = how traffic is going slow or fast) . This provides real time observed speeds and travel times for all key roads in a network.
+###
+
+###
+###
+###
